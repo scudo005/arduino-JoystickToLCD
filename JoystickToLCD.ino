@@ -20,7 +20,6 @@
  * Joystick pin SW on pin 2
  
  Taken from the examples from the official Arduino IDE.
- Edit date: 5 Mar 2022
  */
 
 // include the library code:
