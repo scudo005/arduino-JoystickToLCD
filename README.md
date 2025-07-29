@@ -6,6 +6,10 @@ This little sketch allows you to see in real time the status of a connected anal
 
 The circuit is specified in the JoystickToLCD.ino sketch file itself.
 
+# Notes
+
+Remember to import the "LiquidCrystal.h" library in the IDE (Sketch -> Import library -> Add library and select directly the LiquidCrystal.zip file)
+
 # Known bugs
 
   - On my setup, the LCD shows some corrupted text after the Y-axis value; this is partially mitigated in the code, but I don't know what causes this bug.
