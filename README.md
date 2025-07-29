@@ -1,6 +1,6 @@
 # arduino-JoystickToLCD
 
-This little sketch allows you to see in real time the status of a connected analog joystick (X-axis, Y-axis and the digital switch) to an LCD display instead of the serial console.
+This little sketch allows you to see in real time the status of a connected analog joystick (X-axis, Y-axis and the digital switch) to an LCD display.
 
 # Circuit
 
